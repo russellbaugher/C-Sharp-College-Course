@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe.config
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\bin\Debug\Assignment_1.pdb
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
+E:\SCHOOL\COP2360\assignment1\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
