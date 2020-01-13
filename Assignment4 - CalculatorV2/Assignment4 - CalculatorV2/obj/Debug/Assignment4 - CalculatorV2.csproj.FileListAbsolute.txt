@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\bin\Debug\Assignment4 - CalculatorV2.exe.config
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\bin\Debug\Assignment4 - CalculatorV2.exe
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\bin\Debug\Assignment4 - CalculatorV2.pdb
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\obj\Debug\Assignment4 - CalculatorV2.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\obj\Debug\Assignment4 - CalculatorV2.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\obj\Debug\Assignment4 - CalculatorV2.exe
+E:\SCHOOL\COP2360\assignment4-Calculator2 Feb11\Assignment4 - CalculatorV2\Assignment4 - CalculatorV2\obj\Debug\Assignment4 - CalculatorV2.pdb
