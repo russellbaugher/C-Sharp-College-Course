@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\bin\Debug\Exam2 MultipleChoice.exe.config
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\bin\Debug\Exam2 MultipleChoice.exe
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\bin\Debug\Exam2 MultipleChoice.pdb
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\obj\Debug\Exam2 MultipleChoice.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\obj\Debug\Exam2 MultipleChoice.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\obj\Debug\Exam2 MultipleChoice.exe
+E:\SCHOOL\COP2360\assignment6-exam2 Feb26-28\Exam2 MultipleChoice\Exam2 MultipleChoice\obj\Debug\Exam2 MultipleChoice.pdb
