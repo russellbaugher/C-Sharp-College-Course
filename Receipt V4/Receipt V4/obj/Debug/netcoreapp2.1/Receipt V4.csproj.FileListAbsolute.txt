@@ -1,0 +1,11 @@
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\bin\Debug\netcoreapp2.1\Receipt V4.deps.json
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\bin\Debug\netcoreapp2.1\Receipt V4.runtimeconfig.json
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\bin\Debug\netcoreapp2.1\Receipt V4.runtimeconfig.dev.json
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\bin\Debug\netcoreapp2.1\Receipt V4.dll
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\bin\Debug\netcoreapp2.1\Receipt V4.pdb
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.AssemblyInfoInputs.cache
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.AssemblyInfo.cs
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.dll
+E:\SCHOOL\COP2360\assignment12-exam4 Apr21-23\Receipt V4\Receipt V4\obj\Debug\netcoreapp2.1\Receipt V4.pdb

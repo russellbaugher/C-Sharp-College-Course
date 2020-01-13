@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receipt V4", "Receipt V4\Receipt V4.csproj", "{D285600B-9877-4EB0-AAD4-27CE730FD677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D285600B-9877-4EB0-AAD4-27CE730FD677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D285600B-9877-4EB0-AAD4-27CE730FD677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D285600B-9877-4EB0-AAD4-27CE730FD677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D285600B-9877-4EB0-AAD4-27CE730FD677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23764766-F308-44BC-AC34-C88E9BC88B84}
+	EndGlobalSection
+EndGlobal
