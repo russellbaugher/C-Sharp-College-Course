@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\obj\Debug\Exam1 - Person.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\obj\Debug\Exam1 - Person.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\bin\Debug\Exam1 - Person.exe.config
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\bin\Debug\Exam1 - Person.exe
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\bin\Debug\Exam1 - Person.pdb
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\obj\Debug\Exam1 - Person.exe
+E:\SCHOOL\COP2360\assignment3exam1\Exam1 - Person\Exam1 - Person\obj\Debug\Exam1 - Person.pdb
