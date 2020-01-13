@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\bin\Debug\12 Queue.exe.config
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\bin\Debug\12 Queue.exe
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\bin\Debug\12 Queue.pdb
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\obj\Debug\12 Queue.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\obj\Debug\12 Queue.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\obj\Debug\12 Queue.exe
+E:\SCHOOL\COP2360\assignment12-Queue Apr21\12 Queue\12 Queue\obj\Debug\12 Queue.pdb
