@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\SCHOOL\COP2360\assignment8-Inheritance Mar23\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
