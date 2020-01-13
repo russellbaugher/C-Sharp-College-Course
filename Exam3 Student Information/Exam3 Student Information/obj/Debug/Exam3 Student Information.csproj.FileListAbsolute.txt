@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\bin\Debug\Exam3 Student Information.exe.config
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\bin\Debug\Exam3 Student Information.exe
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\bin\Debug\Exam3 Student Information.pdb
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\obj\Debug\Exam3 Student Information.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\obj\Debug\Exam3 Student Information.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\obj\Debug\Exam3 Student Information.exe
+E:\SCHOOL\COP2360\assignment9-exam3 Mar30-Apr2\Exam3 Student Information\Exam3 Student Information\obj\Debug\Exam3 Student Information.pdb
