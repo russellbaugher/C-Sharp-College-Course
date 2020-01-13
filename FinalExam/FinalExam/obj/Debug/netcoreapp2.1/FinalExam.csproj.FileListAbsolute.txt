@@ -1,0 +1,11 @@
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\bin\Debug\netcoreapp2.1\FinalExam.deps.json
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\bin\Debug\netcoreapp2.1\FinalExam.runtimeconfig.json
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\bin\Debug\netcoreapp2.1\FinalExam.runtimeconfig.dev.json
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\bin\Debug\netcoreapp2.1\FinalExam.dll
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\bin\Debug\netcoreapp2.1\FinalExam.pdb
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.AssemblyInfoInputs.cache
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.AssemblyInfo.cs
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.dll
+E:\SCHOOL\COP2360\assignment13-FINALEXAM May6\FinalExam\FinalExam\obj\Debug\netcoreapp2.1\FinalExam.pdb
