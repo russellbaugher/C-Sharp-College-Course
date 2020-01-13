@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\bin\Debug\ReceiptV2.exe.config
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\bin\Debug\ReceiptV2.exe
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\bin\Debug\ReceiptV2.pdb
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\obj\Debug\ReceiptV2.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\obj\Debug\ReceiptV2.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\obj\Debug\ReceiptV2.exe
+E:\SCHOOL\COP2360\assignment3-Receipt2 Feb4\ReceiptV2\ReceiptV2\obj\Debug\ReceiptV2.pdb
