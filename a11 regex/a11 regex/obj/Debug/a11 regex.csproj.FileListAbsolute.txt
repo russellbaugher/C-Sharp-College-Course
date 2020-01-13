@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\bin\Debug\a11 regex.exe.config
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\bin\Debug\a11 regex.exe
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\bin\Debug\a11 regex.pdb
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\obj\Debug\a11 regex.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\obj\Debug\a11 regex.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\obj\Debug\a11 regex.exe
+E:\SCHOOL\COP2360\assignment11-RegEx Apr14\a11 regex\a11 regex\obj\Debug\a11 regex.pdb
