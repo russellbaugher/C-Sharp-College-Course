@@ -1,0 +1,14 @@
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.exe.config
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.exe
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.pdb
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.exe
+E:\SCHOOL\COP2360\assignment2-Calculator1\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.pdb
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.exe.config
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.exe
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\bin\Debug\Assignment2 Calculator1.pdb
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.exe
+E:\SCHOOL\COP2360\assignment2-Calculator1 Jan29\Assignment2 Calculator1\Assignment2 Calculator1\obj\Debug\Assignment2 Calculator1.pdb
