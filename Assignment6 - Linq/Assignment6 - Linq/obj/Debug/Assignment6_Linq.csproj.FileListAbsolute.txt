@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\bin\Debug\Assignment6 - Linq.exe.config
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\bin\Debug\Assignment6 - Linq.exe
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\bin\Debug\Assignment6 - Linq.pdb
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\obj\Debug\Assignment6_Linq.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\obj\Debug\Assignment6_Linq.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\obj\Debug\Assignment6 - Linq.exe
+E:\SCHOOL\COP2360\assignment6-ListWithLinq Feb25\Assignment6 - Linq\Assignment6 - Linq\obj\Debug\Assignment6 - Linq.pdb
